@@ -1,0 +1,42 @@
+{
+  "signup": {
+    "message": "REGISTRY_SUCCESS",
+    "status": 201,
+    "email": "",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "last_login": ""
+  },
+  "signin": {
+    "message": "ACCESS_SUCCESS",
+    "status": 200,
+    "email": "",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "last_login": "",
+    "auth_token": null
+  },
+  "delete": {
+    "message": "DELETE_SUCCESS",
+    "status": 204,
+    "timestamp": null
+  },
+  "update": {
+    "message": "UPDATE_SUCCESS",
+    "status": 200,
+    "email": "",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "last_login": ""
+  },
+  "products_query": {
+    "message": "PRODUCT_QUERY_SUCCESS",
+    "status": 200,
+    "timestamp": "",
+    "page": null,
+    "items": []
+  }
+}

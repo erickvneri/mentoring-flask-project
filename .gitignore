@@ -1,0 +1,20 @@
+# vscode config
+.vscode
+
+# venv
+/env
+
+# config 
+config.json
+
+# _pycache_
+config/__pycache__
+models/__pycache__
+resources/__pycache__
+services/__pycache__
+services/db_services/__pycache__
+templates/__pycache__
+unit_test/__pycache__
+
+# Testing data
+test_data.txt

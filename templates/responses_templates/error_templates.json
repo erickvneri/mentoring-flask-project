@@ -1,0 +1,33 @@
+{
+  "transaction": {
+    "message": "TRANSACTION_ERROR",
+    "status": 400,
+    "err_code": "",
+    "description": "",
+    "timestamp": ""
+  },
+  "connection_err": {
+    "message": "error_at_database_connection",
+    "status": 503,
+    "err_code": "",
+    "description": "service_unavailable",
+    "timestamp": ""
+  }, 
+  "bad_credentials": {
+    "message": "bad_credentials",
+    "status": 401,
+    "err_code": "UN4UTH0R123D",
+    "timestamp": ""
+  },
+  "non_user": {
+    "message": "user_not_existent",
+    "status": 404,
+    "err_code": "NOT_FOUND",
+    "timestamp": ""
+  },
+  "auth_token": {
+    "message": "Authentication_token_required",
+    "status": 401,
+    "err_code": "M1551NG_T0K3N"
+  }
+}
